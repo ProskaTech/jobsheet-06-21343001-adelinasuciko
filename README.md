@@ -32,7 +32,6 @@ pernyataan dijalankan.
 8. Jika nilainya lebih besar dari atau sama dengan 60, yang ketiga pernyataan dijalankan. 
 9. Jika nilainya kurang dari 80, pernyataan terakhir dijalankan.
 
-Bufferedreader digunakan untuk run langsung 
-JOptionpane untuk run menggunakan tabel
+Bufferedreader digunakan untuk run langsung. JOptionpane untuk run menggunakan tabel
 
 Struktur pemilihan switch case sebetulnya hampir sama dengan percabangan IF-ELSE dimana jika di percabangan IF terdapat beberapa kondisi dan pernyataan. jika pernyataan dieksekusi dan kondisi bernilai benar (true) Sementara ketika kondisi bernilai salah (false) kedua pernyataan tersebut tidak dijalankan oleh program., pada pemilihan switch akan ada beberapa case yang dapat kita buat, jika nilai yang menjadi nilai pembanding sama dengan case yang ada atau kata lainnya jika suatu case pada pemilihan switch bernilai true maka pernyataan pada case tersebut yang akan dieksekusi.
